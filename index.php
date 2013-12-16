@@ -1,7 +1,7 @@
 <?php
-	
 	session_start();
 
+	include('php/variables.php/')
 ?>
 
 <html>
